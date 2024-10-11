@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kylep\\HW3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\ontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\tidy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tidy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\oncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\oncollision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\rotatorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatorscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uiscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|c:\\users\\kylep\\hw3\\assets\\scripts\\goldteapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54D378FC-8661-A00A-D6EB-1A5089C140F2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goldteapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\OnTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnTrigger.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\OnTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:21.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shooter.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:20.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tidy.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\Tidy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tidy.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\Tidy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tidy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:20.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OnCollision.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\OnCollision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OnCollision.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\OnCollision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OnCollision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:19.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RotatorScript.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\RotatorScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatorScript.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\RotatorScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatorScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:19.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UIScript.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\UIScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIScript.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\UIScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:18.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoldTeapot.cs",
+              "DocumentMoniker": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\GoldTeapot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoldTeapot.cs",
+              "ToolTip": "C:\\Users\\kylep\\HW3\\Assets\\Scripts\\GoldTeapot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoldTeapot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T02:58:18.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
